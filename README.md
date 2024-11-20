@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jjishizaki
-- 🌱 I’m currently learning python
-- 📫 How to reach me: jjishizaki13@gmail.com
+Princeton University class of 2028
+Chemical and biological Engineering
+jjishizaki13@gmail.com
 
 <!---
 jjishizaki/jjishizaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
